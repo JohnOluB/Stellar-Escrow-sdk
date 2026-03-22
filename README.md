@@ -1,7 +1,3 @@
-# Stellar-Escrow-sdk
-A TypeScript SDK wrapping Stellar Soroban escrow contracts, exposing simple createEscrow, releaseEscrow, and disputeEscrow methods for any platform to embed trustless payment flows.
-
-
 # stellar-escrow-sdk
 
 > A TypeScript SDK for embedding trustless Soroban escrow flows into any application —
